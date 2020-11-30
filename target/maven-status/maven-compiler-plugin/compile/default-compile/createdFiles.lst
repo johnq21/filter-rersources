@@ -1,0 +1,11 @@
+org\xyz\am\rules\PropertyRuleBuilder.class
+org\xyz\am\operators\ComparisonOperator.class
+org\xyz\am\filter\LessThanFilter.class
+org\xyz\am\operators\GreatThanOperator.class
+org\xyz\am\App.class
+org\xyz\am\Resources.class
+org\xyz\am\filter\ComparisonFilter.class
+org\xyz\am\filter\GreatThanFilter.class
+org\xyz\am\operators\Operator.class
+org\xyz\am\filter\Filter.class
+org\xyz\am\rules\PropertyRule.class
